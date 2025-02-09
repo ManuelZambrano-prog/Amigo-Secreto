@@ -70,7 +70,7 @@ function sortearAmigo() {
     }
 
     // Crear una copia de la lista de amigos
-    let listaAmigosCopia = [...listaAmigos];
+    let listaAmigosCopia = [listaAmigos];
 
     let amigoGanador;
     while (listaAmigosCopia.length > 0) {
