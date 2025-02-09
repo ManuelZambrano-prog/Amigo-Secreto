@@ -2,39 +2,30 @@
    <img src="https://github.com/user-attachments/assets/c7bde09c-d56d-4630-adb5-40ceb363192c" width=200>
 </p>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/ManuelZambrano-prog?style=social)
-
 <h1 align="center"> JUEGO DEL AMIGO SECRETO</h1>
  <p align="center">
    <img src="https://img.shields.io/github/stars/ManuelZambrano-prog?style=social">
 </p>
  <p align="center">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-EN%20PROCESO-green">
 </p>
 
 
 ## Índice
-- [Título e imagen de portada](#Título-e-imagen-de-portada)
-
-- [Insignias](#insignias)
-
 - [Descripción del proyecto](#Descripción-del-proyecto)
 
 - [Estado del proyecto](#Estado-del-proyecto)
 
-- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
+- [Funcionalidades del proyecto](#funcionalidades-del-proyecto)
+  
 - [Acceso al proyecto](#acceso-proyecto)
 
+- [Abre y ejectua el proyecto](#abre_y_ejecuta_el_proyecto)
+  
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
+  
+- [Desarrolladores](#desarrolladores)
 
-- [Personas Contribuyentes](#personas-contribuyentes)
-
-- [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-- [Licencia](#licencia)
-
-- [Conclusión](#conclusión)
 
 ## Descripción del proyecto 
 
@@ -49,23 +40,22 @@
 ## Estado del Proyecto
 
 <p align= "justify">
-:see_no_evil: En construcción. :see_no_evil:
+:see_no_evil: Finalizado con lo solicitado pero se está mejorando poco a poco más. :see_no_evil:
 </p>
 
-## :hammer:Funcionalidades del proyecto
+## :hammer: Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1
-- `Funcionalidad 2`: descripción de la funcionalidad 2
-- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2
-- `Funcionalidad 3`: descripción de la funcionalidad 3
+- `Funcionalidad 1`: Añade a una lista un amigo secreto proporcionado por el usuario
+- `Funcionalidad 2`: Sortea determinado numero de nombres para finalmente dar con un amigo secreto
+- `Funcionalidad 2a`: Al momento de ingresar datos, si se ingresa un espacio en blanco, sencillamente no deja y pide un nombre real
 
 ## 📁 Acceso al proyecto
 
-```Para poder ejecutar correctamente el proyecto basta con seleccionar que el archivo abra con Chrome y listo, o desde el mismo link compartido por medio de LindedIn```
+```Para poder acceder al proyecto basta con clonarlo en la carpeta que deseen usando el comando "git clone (seguido de el link que proporciona GitHub al momento de presional la opción de *code*)```
 
 ## 🛠️ Abre y ejecuta el proyecto
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+**Aqui en GitHub está habilitada la opción de entrar al proyecto con un link que proporciona directamente GitHub y este sale directamente en la opción de `Deployments`**
 
 ## Tecnologias Utilizadas:
 - JavaScript
@@ -76,16 +66,4 @@
 [<img src="https://github.com/user-attachments/assets/c40faac0-d642-4111-a6fd-4b45b3f980b9" width=115><br><sub>Manuel Stiwen Zambrano</sub>](https://github.com/ManuelZambrano-prog)
 
 >[!NOTE]
->Aqui tenemos una nota especial
-
->[!TIP]
->Aqui tienes un tip
-
->[!IMPORTANT]
->Aqui hay algo super importante
-
->[!WARNING]
->Peligroo
-
->[!CAUTION]
->Precaución
+>Aún hace falta arreglar un par de errores pero es algo que se va solucionando mientras se avanza con los distintos cursos de AluraLATAM
